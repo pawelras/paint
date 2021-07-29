@@ -1,0 +1,43 @@
+* {
+    font-family: Helvetica;
+}
+
+#header {
+    font-family: Helvetica;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    color: khaki;
+    background-image: url('./pattern.webp');
+}
+
+.price {
+	font-family: Helvetica;
+    font-weight: bold;
+    color: blue;}
+
+.subHeadings {
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.springBackground {
+    background-color: mediumspringgreen;
+}
+
+.coralBackground {
+    background-color: lightcoral;
+}
+
+.skyBackground {
+    background-color: skyblue;
+}
+
+section {
+    padding-left: 0;
+}
+
+.image {
+    margin: 0;
+}
